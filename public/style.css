@@ -1,0 +1,19 @@
+H1 {
+font-family:"Times New Roman, serif";
+color: green;
+}
+
+H2 {
+font-family:"Calibri";
+font-style: italic;
+color: darkgreen;
+}
+
+body {
+font-family:"Cambria";
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
